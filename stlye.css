@@ -76,7 +76,7 @@ header .nav-icon:hover:before {
 }
 @media(max-width:767px){
     .sec-heading{
-        font-size: 60px;
+        font-size: 56px;
     }
     .sec-heading p{
         margin-top: -40px;
@@ -267,7 +267,7 @@ header .nav-icon:hover:before {
     }
 }
 .about-cont .image img{
-    width: 350px;
+    width: 330px;
 }
 .about-cont .text{
     flex-basis: calc(100% - 500px);
